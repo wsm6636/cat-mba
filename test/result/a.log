@@ -1,0 +1,160 @@
+[4] repeat=1
+[4] allocated workingset_size=9830400
+
+## This is not serial!
+
+[4] 600 MiB array is allocated
+[4] 137626032 instructions
+[4] 3003156072 cycles
+[4] 13707858 cache miss
+[4] 15732578 cache references
+[4] [IPC] 0.04583
+[4] duration 1.440869 s
+[4] average 146.57 ns
+[4] bandwidth 436.64 MB (416.42 MiB)/s 
+[4] readsum 48318377164800
+[4] ==> 137626032 3003156072 0.04583
+[4] repeat=1
+[4] allocated workingset_size=9830400
+
+## This is not serial!
+
+[4] 600 MiB array is allocated
+[4] 137626034 instructions
+[4] 3004588608 cycles
+[4] 13722842 cache miss
+[4] 15754508 cache references
+[4] [IPC] 0.04581
+[4] duration 1.441354 s
+[4] average 146.62 ns
+[4] bandwidth 436.50 MB (416.28 MiB)/s 
+[4] readsum 48318377164800
+[4] ==> 137626034 3004588608 0.04581
+[4] repeat=1
+[4] allocated workingset_size=9830400
+
+## This is not serial!
+
+[4] 600 MiB array is allocated
+[4] 137626026 instructions
+[4] 2969229648 cycles
+[4] 13528403 cache miss
+[4] 15733010 cache references
+[4] [IPC] 0.04635
+[4] duration 1.422257 s
+[4] average 144.68 ns
+[4] bandwidth 442.36 MB (421.86 MiB)/s 
+[4] readsum 48318377164800
+[4] ==> 137626026 2969229648 0.04635
+[4] repeat=1
+[4] allocated workingset_size=9830400
+
+## This is not serial!
+
+[4] 600 MiB array is allocated
+[4] 137626031 instructions
+[4] 2985598140 cycles
+[4] 13620564 cache miss
+[4] 15737440 cache references
+[4] [IPC] 0.04610
+[4] duration 1.431037 s
+[4] average 145.57 ns
+[4] bandwidth 439.64 MB (419.28 MiB)/s 
+[4] readsum 48318377164800
+[4] ==> 137626031 2985598140 0.04610
+[4] repeat=1
+[4] allocated workingset_size=9830400
+
+## This is not serial!
+
+[4] 600 MiB array is allocated
+[4] 137626025 instructions
+[4] 2958355260 cycles
+[4] 13490056 cache miss
+[4] 15781220 cache references
+[4] [IPC] 0.04652
+[4] duration 1.414680 s
+[4] average 143.91 ns
+[4] bandwidth 444.73 MB (424.12 MiB)/s 
+[4] readsum 48318377164800
+[4] ==> 137626025 2958355260 0.04652
+[4] repeat=1
+[4] allocated workingset_size=9830400
+
+## This is not serial!
+
+[4] 600 MiB array is allocated
+[4] 137626030 instructions
+[4] 2991814056 cycles
+[4] 13662357 cache miss
+[4] 15752306 cache references
+[4] [IPC] 0.04600
+[4] duration 1.433618 s
+[4] average 145.84 ns
+[4] bandwidth 438.85 MB (418.52 MiB)/s 
+[4] readsum 48318377164800
+[4] ==> 137626030 2991814056 0.04600
+[4] repeat=1
+[4] allocated workingset_size=9830400
+
+## This is not serial!
+
+[4] 600 MiB array is allocated
+[4] 137626030 instructions
+[4] 2991151464 cycles
+[4] 13638558 cache miss
+[4] 15738239 cache references
+[4] [IPC] 0.04601
+[4] duration 1.435159 s
+[4] average 145.99 ns
+[4] bandwidth 438.38 MB (418.07 MiB)/s 
+[4] readsum 48318377164800
+[4] ==> 137626030 2991151464 0.04601
+[4] repeat=1
+[4] allocated workingset_size=9830400
+
+## This is not serial!
+
+[4] 600 MiB array is allocated
+[4] 137626027 instructions
+[4] 2969889300 cycles
+[4] 13559303 cache miss
+[4] 15731633 cache references
+[4] [IPC] 0.04634
+[4] duration 1.422652 s
+[4] average 144.72 ns
+[4] bandwidth 442.23 MB (421.75 MiB)/s 
+[4] readsum 48318377164800
+[4] ==> 137626027 2969889300 0.04634
+[4] repeat=1
+[4] allocated workingset_size=9830400
+
+## This is not serial!
+
+[4] 600 MiB array is allocated
+[4] 137626038 instructions
+[4] 3049668888 cycles
+[4] 13962466 cache miss
+[4] 15735142 cache references
+[4] [IPC] 0.04513
+[4] duration 1.464376 s
+[4] average 148.96 ns
+[4] bandwidth 429.63 MB (409.73 MiB)/s 
+[4] readsum 48318377164800
+[4] ==> 137626038 3049668888 0.04513
+[4] repeat=1
+[4] allocated workingset_size=9830400
+
+## This is not serial!
+
+[4] 600 MiB array is allocated
+[4] 137626033 instructions
+[4] 3015136908 cycles
+[4] 13752413 cache miss
+[4] 15728268 cache references
+[4] [IPC] 0.04565
+[4] duration 1.446370 s
+[4] average 147.13 ns
+[4] bandwidth 434.98 MB (414.83 MiB)/s 
+[4] readsum 48318377164800
+[4] ==> 137626033 3015136908 0.04565

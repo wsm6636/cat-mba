@@ -1,0 +1,40 @@
+[4] 13707858 cache miss
+[4] 13722842 cache miss
+[4] 13528403 cache miss
+[4] 13620564 cache miss
+[4] 13490056 cache miss
+[4] 13662357 cache miss
+[4] 13638558 cache miss
+[4] 13559303 cache miss
+[4] 13962466 cache miss
+[4] 13752413 cache miss
+[4] 15732578 cache references
+[4] 15754508 cache references
+[4] 15733010 cache references
+[4] 15737440 cache references
+[4] 15781220 cache references
+[4] 15752306 cache references
+[4] 15738239 cache references
+[4] 15731633 cache references
+[4] 15735142 cache references
+[4] 15728268 cache references
+[4] duration 1.440869 s
+[4] duration 1.441354 s
+[4] duration 1.422257 s
+[4] duration 1.431037 s
+[4] duration 1.414680 s
+[4] duration 1.433618 s
+[4] duration 1.435159 s
+[4] duration 1.422652 s
+[4] duration 1.464376 s
+[4] duration 1.446370 s
+[4] bandwidth 436.64 MB (416.42 MiB)/s 
+[4] bandwidth 436.50 MB (416.28 MiB)/s 
+[4] bandwidth 442.36 MB (421.86 MiB)/s 
+[4] bandwidth 439.64 MB (419.28 MiB)/s 
+[4] bandwidth 444.73 MB (424.12 MiB)/s 
+[4] bandwidth 438.85 MB (418.52 MiB)/s 
+[4] bandwidth 438.38 MB (418.07 MiB)/s 
+[4] bandwidth 442.23 MB (421.75 MiB)/s 
+[4] bandwidth 429.63 MB (409.73 MiB)/s 
+[4] bandwidth 434.98 MB (414.83 MiB)/s 
